@@ -18,10 +18,10 @@
 5) С помощью Wysiwyg-редактора изменил: размер, цвет, шрифт, текста на этой страничке "templates\flatpages\changed_text.html";
 6) и 7) Сделано для страничке - "templates\flatpages\default.html";
 
-	URL		 	Page
-	/about/		
-	/changed_text/		changed_text.html
-	/contacts/		contact_page.html
-	/duble_content/		duble_content.html
-	/hidden/		registered_users.html
-	/italic_page/		italic_page.html
+	URL		-> 	Page
+	/about/		-> ;
+	/changed_text/	->	changed_text.html;
+	/contacts/	->	contact_page.html;
+	/duble_content/	->	duble_content.html;
+	/hidden/	->	registered_users.html;
+	/italic_page/	->	italic_page.html;
